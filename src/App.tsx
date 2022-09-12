@@ -13,7 +13,7 @@ function App() {
 				<h3>More to come....</h3>
 			</div>
 			<div>
-				<button onClick={() => setCount((count) => count + 1)}>
+				<button className='headClass__image' onClick={() => setCount((count) => count + 1)}>
 					<img className='headClass' src={samHead} />
 				</button>
 			</div>
