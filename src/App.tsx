@@ -17,8 +17,9 @@ function App() {
 					<img src={samHead} />
 				</button>
 			</div>
-			<div className='card'>
-				<h2>count is {count}</h2>
+			<h3>↓↓↓↓ I'm Samuel Hegner and I approve the message below ↓↓↓↓</h3>
+			<div className='boxedDiv'>
+				<h3>count is {count}</h3>
 			</div>
 		</div>
 	);
